@@ -138,7 +138,7 @@ void BLX_alpha(indv &ind1,indv &ind2) {
 	}
 }
 
-int main() {
+int ga_main() {
 	mt.seed(rd());
 	Com com1(0);
 	Com com2(1);
